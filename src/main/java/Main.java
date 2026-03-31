@@ -5,6 +5,7 @@ import javax.swing.JOptionPane;
 public class Main {
 
     public static void main(String[] args) {
+        //declara a instância ao objeto.
         Circulo x = new Circulo();
 
         //x.setPi(Double.parseDouble(JOptionPane.showInputDialog("Diga o valor de Pi: ")));
